@@ -18,9 +18,5 @@ public class main {
             System.out.println(test[i].movie);
             
         }
-        
-        
-        
-        
     }
 }
