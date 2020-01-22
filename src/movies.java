@@ -8,6 +8,7 @@ public class movies {
     public void makeMovie(){
         Scanner in = new Scanner(System.in);
         movie = in.nextLine(); 
+        System.out.println("ASKDJUHSAUDDAS");
     }
 }
 
