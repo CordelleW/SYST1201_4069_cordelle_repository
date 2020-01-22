@@ -17,7 +17,7 @@ public class main {
         for (int i = 0; i < test.length; i++) {
             System.out.println(test[i].movie);
             System.out.println("ABC 123 ");
-            
+            System.out.println("123 ABC");
         }
     }
 }
