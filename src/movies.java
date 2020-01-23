@@ -9,7 +9,7 @@ public class movies {
         Scanner in = new Scanner(System.in);
         movie = in.nextLine(); 
         System.out.println("ASKDJUHSAUDDAS");
-        System.out.println("ASJDASASDA");\
+        System.out.println("ASJDASASDA");
         System.out.println("ABC 123 ABC");
     }
 }
